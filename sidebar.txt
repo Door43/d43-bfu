@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bfu:home|Door43 (bfu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bfu|d43-bfu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bfu/archive/master.zip|d43-bfu.zip]]
+
+**Recent Changes**
+{{changes>ns = bfu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bfu|Ethnologue data]]
+
